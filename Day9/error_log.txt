@@ -1,0 +1,2 @@
+30-12-2025 09:08:21 | ACC101 | BankingSystem.InsufficientBalanceException: Insufficient balance
+   at BankingSystem.BankAccount.Withdraw(Decimal amount) in D:\CSharpTraining\Day9\BankACC-Assign.cs:line 43
