@@ -15,12 +15,12 @@ class PatientBill
     public decimal FinalPayable;
 }
 
-class Program1
+class Program
 {
     static PatientBill LastBill = null;
     static bool HasLastBill = false;
 
-    public static void calculate()
+    public static void Main()
     {
         int choice;
 
@@ -153,3 +153,4 @@ class Program1
         Console.WriteLine("Last bill cleared.");
     }
 }
+
