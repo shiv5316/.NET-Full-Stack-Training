@@ -14,11 +14,11 @@ class SaleTransaction
     public decimal ProfitMarginPercent;
 }
 
-class Program2
+class Program
 {
     static SaleTransaction LastTransaction;
     static bool HasLastTransaction = false;
-    public static void calculate()
+    public static void Main()
     {
         while (true)
         {
@@ -168,3 +168,4 @@ class Program2
         Console.WriteLine("Profit Margin (%)  : " + t.ProfitMarginPercent.ToString("0.00"));
     }
 }
+
