@@ -1,0 +1,9 @@
+<<<<<<< HEAD
+Application Started
+Processing data
+Application Ended
+=======
+Application Started
+Processing data
+Application Ended
+>>>>>>> c45fc69d5fbdbfb4fff8724ca36ffc9b5e9691a5

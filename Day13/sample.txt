@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+Hello FileInfo class
+=======
+Hello FileInfo class
+>>>>>>> c45fc69d5fbdbfb4fff8724ca36ffc9b5e9691a5
