@@ -1,0 +1,15 @@
+D:\CSharp-Training\Day15\bin\Debug\net10.0\Day15.exe
+D:\CSharp-Training\Day15\bin\Debug\net10.0\Day15.deps.json
+D:\CSharp-Training\Day15\bin\Debug\net10.0\Day15.runtimeconfig.json
+D:\CSharp-Training\Day15\bin\Debug\net10.0\Day15.dll
+D:\CSharp-Training\Day15\bin\Debug\net10.0\Day15.pdb
+D:\CSharp-Training\Day15\obj\Debug\net10.0\Day15.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp-Training\Day15\obj\Debug\net10.0\Day15.AssemblyInfoInputs.cache
+D:\CSharp-Training\Day15\obj\Debug\net10.0\Day15.AssemblyInfo.cs
+D:\CSharp-Training\Day15\obj\Debug\net10.0\Day15.csproj.CoreCompileInputs.cache
+D:\CSharp-Training\Day15\obj\Debug\net10.0\Day15.sourcelink.json
+D:\CSharp-Training\Day15\obj\Debug\net10.0\Day15.dll
+D:\CSharp-Training\Day15\obj\Debug\net10.0\refint\Day15.dll
+D:\CSharp-Training\Day15\obj\Debug\net10.0\Day15.pdb
+D:\CSharp-Training\Day15\obj\Debug\net10.0\Day15.genruntimeconfig.cache
+D:\CSharp-Training\Day15\obj\Debug\net10.0\ref\Day15.dll
