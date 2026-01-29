@@ -67,18 +67,30 @@
 //     }
 // }
 
+// using System;
+// using System.IO;
+// using System.Threading.Tasks;
+// class Program
+// {
+//     static async Task Main()
+//     {
+//         Console.WriteLine("Start reading file...");
+//         string content=await File.ReadAllTextAsync("C:/Users/HP/Desktop/project cmd.txt");
+//          Console.WriteLine("File content:");
+//         Console.WriteLine(content);
+
+//         Console.WriteLine("End of program");
+//     }
+//}
+
+
 using System;
-using System.IO;
-using System.Threading.Tasks;
+using System.Diagnostics;
 class Program
 {
-    static async Task Main()
+    static void Main()
     {
-        Console.WriteLine("Start reading file...");
-        string content=await File.ReadAllTextAsync("C:/Users/HP/Desktop/project cmd.txt");
-         Console.WriteLine("File content:");
-        Console.WriteLine(content);
-
-        Console.WriteLine("End of program");
+        Program1.calculate();
+        //Process.Start("notepad.exe");
     }
 }
